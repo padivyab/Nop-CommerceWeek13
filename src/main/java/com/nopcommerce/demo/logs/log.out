@@ -1,0 +1,155 @@
+2022-09-15 11:09:906 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 11:09:549 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cd2851942c9bf186eeed45bf958a78d5)] -> link text: Log in]
+2022-09-15 11:09:632 INFO  LoginPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (cd2851942c9bf186eeed45bf958a78d5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 11:09:786 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 11:09:747 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 11:09:492 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4252e6f812edfb23a4497de4696634ab)] -> link text: Log in]
+2022-09-15 11:09:527 INFO  LoginPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4252e6f812edfb23a4497de4696634ab)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 12:09:76 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:961 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (da46696084fe57109dd119138d21f6c3)] -> link text: Log in]
+2022-09-15 12:09:104 INFO  LoginPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (da46696084fe57109dd119138d21f6c3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 12:09:686 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:277 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (56cc0c39b6252ba4e483f192f43c3d35)] -> link text: Log in]
+2022-09-15 12:09:168 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:133 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:785 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (de6eb593362b0df1560d4d9d6bca14d6)] -> link text: Log in]
+2022-09-15 12:09:951 INFO  LoginPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (de6eb593362b0df1560d4d9d6bca14d6)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 12:09:194 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:230 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (98dd8b21dfa9a45928fc6aac974715d9)] -> link text: Log in]
+2022-09-15 12:09:846 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:719 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:798 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f728e2441beaaedb3bc987264135c2b5)] -> link text: Log in]
+2022-09-15 12:09:968 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:88 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d6d79111ad87bb2b0af5bb3fec153f22)] -> link text: Log in]
+2022-09-15 12:09:344 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 12:09:834 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ca661728c16e7b11333fd6182317f26d)] -> link text: Log in]
+2022-09-15 13:09:673 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:596 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b2018617fb34f47c0eca71d11661f69c)] -> link text: Log in]
+2022-09-15 13:09:801 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:367 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (984d9ba739e844d937d4f60d35a5dfd2)] -> link text: Log in]
+2022-09-15 13:09:516 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:112 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d782558a434ee73696937e83c370b0c5)] -> link text: Log in]
+2022-09-15 13:09:898 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:540 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7dd3bfaf441b315a662a7e3e76e252b8)] -> link text: Log in]
+2022-09-15 13:09:558 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:507 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7308871b622ad52b58b0eabd9a41aef7)] -> link text: Log in]
+2022-09-15 13:09:390 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:155 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (dffab7563ade9966a7164e7e59e09d59)] -> link text: Log in]
+2022-09-15 13:09:377 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (dffab7563ade9966a7164e7e59e09d59)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 13:09:900 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:614 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (337c566705dba0d293664f387bea2e36)] -> link text: Log in]
+2022-09-15 13:09:70 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:588 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2cc45ae44d6b8bc7848fd4290028a524)] -> link text: Log in]
+2022-09-15 13:09:302 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:386 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5491bdf053d594a66ae122a73c9cc814)] -> link text: Log in]
+2022-09-15 13:09:870 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:229 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:49 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (421333a1f81aeaa38e24a3b018514cf0)] -> link text: Log in]
+2022-09-15 13:09:812 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:735 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f9d2e41ad5c8f7c74e0eb0bae1cce3b9)] -> link text: Log in]
+2022-09-15 13:09:868 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 13:09:581 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0bd651109786c7e141d4d4cbd273eee8)] -> link text: Log in]
+2022-09-15 14:09:851 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:568 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (570a861e2a14d1f892f54d6e14f0fbfb)] -> link text: Log in]
+2022-09-15 14:09:365 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:816 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (53ccfb76ff77a08f5902ea27c6896ae8)] -> link text: Log in]
+2022-09-15 14:09:637 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:37 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (09c44919954a63471c7f9dada0c1bcdb)] -> link text: Log in]
+2022-09-15 14:09:113 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (09c44919954a63471c7f9dada0c1bcdb)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 14:09:463 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:955 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f133d7d354beb509d38f30c89ff321c6)] -> link text: Log in]
+2022-09-15 14:09:566 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:857 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8aa2d33f336c9ee94254064fb782d01e)] -> link text: Log in]
+2022-09-15 14:09:941 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:98 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (070f4f79b8a8f810052c3a01891648ff)] -> link text: Log in]
+2022-09-15 14:09:362 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:245 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:431 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (68a19df19d6279e6470f11332bbaaa25)] -> link text: Log in]
+2022-09-15 14:09:157 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 14:09:348 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b81c53ebe957639752cc826be211d5b0)] -> link text: Log in]
+2022-09-15 15:09:718 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:765 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:384 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:203 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6c5d70c91c6534dc834b373aa9943d2b)] -> link text: Log in]
+2022-09-15 23:09:441 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:361 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:960 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:95 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3db1c6a153637214d185d1f4b8e9707c)] -> link text: Log in]
+2022-09-15 23:09:176 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3db1c6a153637214d185d1f4b8e9707c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-15 23:09:976 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:928 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d8256e41699dc3a49f75975b86650c2e)] -> link text: Log in]
+2022-09-15 23:09:574 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:397 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b8304cf5051666629f8ad199f4b61a62)] -> link text: Log in]
+2022-09-15 23:09:155 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:265 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8ee38400450fbf08200e049df216a0e9)] -> link text: Log in]
+2022-09-15 23:09:674 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-15 23:09:982 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:673 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:76 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:638 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a4e2a708ea4ea97d0bd8d3ae54e4803a)] -> link text: Log in]
+2022-09-16 00:09:753 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a4e2a708ea4ea97d0bd8d3ae54e4803a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 00:09:601 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:383 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (00f5b9e8146ac6884aad928b77dbc97f)] -> link text: Log in]
+2022-09-16 00:09:216 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:543 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ac8e92c450c745d474866b131592a673)] -> link text: Log in]
+2022-09-16 00:09:129 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:862 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8cb650f6fd2f2af15300bc77bc42d6c6)] -> link text: Log in]
+2022-09-16 00:09:833 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:632 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:791 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:244 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:114 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:141 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:503 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:312 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3e17d95d83a726f03265ad023925d92f)] -> link text: Log in]
+2022-09-16 00:09:349 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3e17d95d83a726f03265ad023925d92f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 00:09:265 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:53 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ce5e26d9c7431c9ec24a4e6a96b3c94c)] -> link text: Log in]
+2022-09-16 00:09:662 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:390 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f10436bb4744c844f3a71ff679c09160)] -> link text: Log in]
+2022-09-16 00:09:952 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:457 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (89699b7308cddecb808a8815a044e8d2)] -> link text: Log in]
+2022-09-16 00:09:295 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:315 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:64 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:86 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:353 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:359 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:899 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:886 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:811 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e7355becade8f4d13b1a74e1741514a7)] -> link text: Log in]
+2022-09-16 00:09:894 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e7355becade8f4d13b1a74e1741514a7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 00:09:954 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:177 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9e45f1737ab16059668cf07792df8453)] -> link text: Log in]
+2022-09-16 00:09:951 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:90 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2d560e5ec5733e02f81bfe7af50928a8)] -> link text: Log in]
+2022-09-16 00:09:900 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:615 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c4cc1e49715c9562f96241457ee498b3)] -> link text: Log in]
+2022-09-16 00:09:167 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:992 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:443 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:728 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:510 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:696 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0fa70cd02acca98bb4f924c243535972)] -> link text: Log in]
+2022-09-16 00:09:769 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0fa70cd02acca98bb4f924c243535972)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 00:09:806 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:513 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cbca3b0a0160b08365ec41f38198eace)] -> link text: Log in]
+2022-09-16 00:09:270 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:231 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (51015063dfeddce73d9d033d43f524c7)] -> link text: Log in]
+2022-09-16 00:09:992 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:58 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (eeca90a41e71db058251b8fd6a997e56)] -> link text: Log in]
+2022-09-16 00:09:376 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:512 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 00:09:141 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:45 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:546 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (24f50f3e5ea507b56a6893bebe2de10f)] -> link text: Log in]
+2022-09-16 01:09:662 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (24f50f3e5ea507b56a6893bebe2de10f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 01:09:743 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:682 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3a2757faa8be25b50a941eb2f3c58b3d)] -> link text: Log in]
+2022-09-16 01:09:495 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:508 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (04e9b1477d5ede95ee72e8e829460d80)] -> link text: Log in]
+2022-09-16 01:09:331 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:709 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3e55978be5633c5ddd22a62a7c6f045c)] -> link text: Log in]
+2022-09-16 01:09:223 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:86 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 01:09:254 INFO  ManageDriver :32 - Launching Chrome Browser
