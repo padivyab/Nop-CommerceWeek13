@@ -153,3 +153,152 @@
 2022-09-16 01:09:223 INFO  ManageDriver :32 - Launching Chrome Browser
 2022-09-16 01:09:86 INFO  ManageDriver :32 - Launching Chrome Browser
 2022-09-16 01:09:254 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:54 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:875 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:377 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:541 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (80bc16081cbdb219aa52fd5472961d2e)] -> link text: Log in]
+2022-09-16 10:09:889 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (80bc16081cbdb219aa52fd5472961d2e)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 10:09:68 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:53 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (da9b024bde975d98510d8ecf7ab1a54b)] -> link text: Log in]
+2022-09-16 10:09:912 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:859 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (393cba2279dc7ff252bd1a83a57df2b4)] -> link text: Log in]
+2022-09-16 10:09:464 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:867 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (12950a5e9f43d3a4ccb1f980a137ca6a)] -> link text: Log in]
+2022-09-16 10:09:110 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:94 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 10:09:728 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:418 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:139 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:433 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:971 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:165 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:282 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9d9d71992116374a00cd963acd467b9a)] -> link text: Log in]
+2022-09-16 11:09:520 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9d9d71992116374a00cd963acd467b9a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 11:09:593 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:684 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ecd93e95f7b3210df13cfa8d4f30e972)] -> link text: Log in]
+2022-09-16 11:09:221 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:655 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5ca9d4b563179cac097570f89078b5cd)] -> link text: Log in]
+2022-09-16 11:09:607 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:377 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ee981ff85a9f5e18f1d724db485775bf)] -> link text: Log in]
+2022-09-16 11:09:33 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:974 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:22 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 11:09:103 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:210 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:918 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:73 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:914 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (bbb966a317b279958d361504876f6e9c)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bbb966a317b279958d361504876f6e9c)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bbb966a317b279958d361504876f6e9c)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:351 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:638 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (26e7a6dc51a653bb20edb9370a00eff1)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (26e7a6dc51a653bb20edb9370a00eff1)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (26e7a6dc51a653bb20edb9370a00eff1)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:45 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:816 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (8b61457395edd9d3d88b16078f2d96c9)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (8b61457395edd9d3d88b16078f2d96c9)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (8b61457395edd9d3d88b16078f2d96c9)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:312 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:506 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (26fd0e958a5658e73145e1e071409832)] -> link text: Log in]
+2022-09-16 12:09:638 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (26fd0e958a5658e73145e1e071409832)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 12:09:721 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:585 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (93b909fa5e349b7128c63dcfedde1e74)] -> link text: Log in]
+2022-09-16 12:09:126 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:373 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a0092ef5dc7ebd3d96bfa672938dc25c)] -> link text: Log in]
+2022-09-16 12:09:967 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:862 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (52191a291c503a2d33f07480a1cfbc46)] -> link text: Log in]
+2022-09-16 12:09:333 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:902 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:309 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:422 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:537 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (97bf723bd7a181d647c00082eb01fa07)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (97bf723bd7a181d647c00082eb01fa07)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (97bf723bd7a181d647c00082eb01fa07)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:327 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:73 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (a07931229f556aa56224c2c54a8c0347)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (a07931229f556aa56224c2c54a8c0347)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (a07931229f556aa56224c2c54a8c0347)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:733 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:30 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (0b5df4bea2fa50998468a451f8f56a34)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (0b5df4bea2fa50998468a451f8f56a34)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (0b5df4bea2fa50998468a451f8f56a34)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:184 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:405 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:497 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:647 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (c4ec808ec66f5005951b805eb257658a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c4ec808ec66f5005951b805eb257658a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c4ec808ec66f5005951b805eb257658a)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:946 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:573 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (3e69a720330779fa90d243edade3cbe2)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (3e69a720330779fa90d243edade3cbe2)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (3e69a720330779fa90d243edade3cbe2)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:209 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:502 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (f8e492cf1802e62b944e733d063799dc)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (f8e492cf1802e62b944e733d063799dc)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (f8e492cf1802e62b944e733d063799dc)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 12:09:398 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:170 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0711079c5ecd4080780ce73e2dddfedf)] -> link text: Log in]
+2022-09-16 12:09:342 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0711079c5ecd4080780ce73e2dddfedf)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 12:09:467 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:245 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (87bd31c7b51fac180140d7f694eb7206)] -> link text: Log in]
+2022-09-16 12:09:552 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:505 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fb1521097a30ad2b8bce02806b554bca)] -> link text: Log in]
+2022-09-16 12:09:685 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:286 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2a43409b0edbb78dfc9b9f16d3f8ff6d)] -> link text: Log in]
+2022-09-16 12:09:237 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:678 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 12:09:450 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:485 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:180 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:291 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:600 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (bf49096bff70dfd8d86ef7d0622a7f60)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bf49096bff70dfd8d86ef7d0622a7f60)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bf49096bff70dfd8d86ef7d0622a7f60)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:556 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:95 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (996e7aff904c69213b166663df5bf514)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (996e7aff904c69213b166663df5bf514)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (996e7aff904c69213b166663df5bf514)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:716 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:378 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (f4ba93b1d7a1f53f4291f7d3b2e8efb3)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (f4ba93b1d7a1f53f4291f7d3b2e8efb3)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (f4ba93b1d7a1f53f4291f7d3b2e8efb3)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:594 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:312 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e09931c3b5f65ffba138c31a4ef0de2b)] -> link text: Log in]
+2022-09-16 13:09:364 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e09931c3b5f65ffba138c31a4ef0de2b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 13:09:394 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:928 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7dad85be9a191fe88ec77a38a657c5c9)] -> link text: Log in]
+2022-09-16 13:09:756 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:12 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a297052d21d5cfa821ded71cd4b37337)] -> link text: Log in]
+2022-09-16 13:09:535 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:161 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (40f6543091c1fd5bcd77307758ebc307)] -> link text: Log in]
+2022-09-16 13:09:447 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:791 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:07 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:920 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:461 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (d3eefa92e2790856425ae300612a8830)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (d3eefa92e2790856425ae300612a8830)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (d3eefa92e2790856425ae300612a8830)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:923 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:869 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (127fd05b2a4cf17110de15094fca9d2c)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (127fd05b2a4cf17110de15094fca9d2c)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (127fd05b2a4cf17110de15094fca9d2c)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:597 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:43 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (852882edfa0169855c6e7e329c0cfc1e)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (852882edfa0169855c6e7e329c0cfc1e)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (852882edfa0169855c6e7e329c0cfc1e)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:323 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:866 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:637 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:582 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (915bcb1dce803a564cb6de4ec74dd665)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (915bcb1dce803a564cb6de4ec74dd665)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (915bcb1dce803a564cb6de4ec74dd665)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:759 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:530 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (bf831c52ea6a15e861c1b714bfe07f4f)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bf831c52ea6a15e861c1b714bfe07f4f)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (bf831c52ea6a15e861c1b714bfe07f4f)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:645 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:107 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (7f6a2a5498aea30a89e33ccd04508f90)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (7f6a2a5498aea30a89e33ccd04508f90)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (7f6a2a5498aea30a89e33ccd04508f90)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:988 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:151 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c2d9061e5e4c0cdeee84782ccc772f0d)] -> link text: Log in]
+2022-09-16 13:09:233 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c2d9061e5e4c0cdeee84782ccc772f0d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 13:09:261 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:28 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0888d909191ee094c42ecd9263f275c2)] -> link text: Log in]
+2022-09-16 13:09:981 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:621 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (03a30dd878a784f40df07e25c8258dd3)] -> link text: Log in]
+2022-09-16 13:09:222 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:969 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6341aefb2119cc45db9ca0c5e924f120)] -> link text: Log in]
+2022-09-16 13:09:267 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:76 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:516 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:200 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:939 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:676 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:659 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (29947942bd2d7314afea77e4edee8da5)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (29947942bd2d7314afea77e4edee8da5)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (29947942bd2d7314afea77e4edee8da5)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:117 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:595 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (8f4066d928c3f2f644796cbdb1d15fbb)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (8f4066d928c3f2f644796cbdb1d15fbb)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (8f4066d928c3f2f644796cbdb1d15fbb)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:834 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:146 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (630c3b56c0b996834c9791222a6c103f)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (630c3b56c0b996834c9791222a6c103f)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (630c3b56c0b996834c9791222a6c103f)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:477 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:106 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (41c7935606fb379a1e17d9850154049c)] -> link text: Log in]
+2022-09-16 13:09:160 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (41c7935606fb379a1e17d9850154049c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-16 13:09:197 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:185 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c8dd4da647004751095926c49ca624fb)] -> link text: Log in]
+2022-09-16 13:09:29 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:757 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0444efe110ef71477c8048c4fdfe1cca)] -> link text: Log in]
+2022-09-16 13:09:182 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:955 INFO  HomePage :43 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (aea516aebeba9fc2fa77ccef105bbcef)] -> link text: Log in]
+2022-09-16 13:09:932 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:378 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:882 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:11 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:236 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (ac95db092286face918119ecc3d661bb)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ac95db092286face918119ecc3d661bb)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ac95db092286face918119ecc3d661bb)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:537 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:94 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (d5d4016bd36ca1ba4609711929d40cd2)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (d5d4016bd36ca1ba4609711929d40cd2)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (d5d4016bd36ca1ba4609711929d40cd2)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-16 13:09:919 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-16 13:09:751 INFO  DesktopPage :28 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (b344ca46965a7a903a71fbcfd3c5e575)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (b344ca46965a7a903a71fbcfd3c5e575)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (b344ca46965a7a903a71fbcfd3c5e575)] -> xpath: //div[@class='products-container']//h2/a]]

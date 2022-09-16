@@ -17,15 +17,15 @@ Feature: Login Test
    Scenario: verifyThatUserShouldLogInSuccessFullyWithValidCredentials
      Given I am on Home Page
      When  I click on login link
-     And   I enter email "diva123@gmail.com"
-     And   I enter password "Div123456"
+     And   I enter email "div1234@gmail.com"
+     And   I enter password "Diva123456"
      Then  I click on login button
 
    Scenario: VerifyThatUserShouldLogOutSuccessFully
      Given I am on Home Page
      When  I click on login link
-     And   I enter email "diva123@gmail.com"
-     And   I enter password "Div123456"
+     And   I enter email "div1234@gmail.com"
+     And   I enter password "Diva123456"
      And   I click on login button
      And   I click on Logout button
      Then  I verify login link display

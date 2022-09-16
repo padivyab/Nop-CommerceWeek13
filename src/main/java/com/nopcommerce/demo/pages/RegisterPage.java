@@ -117,7 +117,7 @@ public class RegisterPage extends Utility {
     }
     public void EnterEmail()
     {
-        sendTextToElement(enteremailr,"diya123@gmail.com");
+        sendTextToElement(enteremailr,"diyavb123@gmail.com");
     }
     public void EnterPassword()
     {
